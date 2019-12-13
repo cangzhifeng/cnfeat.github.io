@@ -4,7 +4,11 @@ header-img: "img/Xacebook.jpg"
 tagline: "cn"  
 description: "笨方法学写作|这一次彻底学会写作"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "http://www.beihoo.top"  
+
+repository: cangzhifeng/ifeat.github.io  自己的仓库地址
+github_url: https://github.com/cangzhifeng   自己的github地址
+url: https://cangzhifeng.github.io     上面设置的https://YourGithubUserName.github.io
 
 # About/contact
 owner: 
