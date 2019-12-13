@@ -4,17 +4,17 @@ header-img: "img/Xacebook.jpg"
 tagline: "cn"  
 description: "笨方法学写作|这一次彻底学会写作"  
 baseurl: ""
-url: "http://www.beihoo.top"  
+url: "http://ifeat.beihoo.top"  
 
-repository: cangzhifeng/ifeat.github.io  自己的仓库地址
+repository: cangzhifeng/ifeat  自己的仓库地址
 github_url: https://github.com/cangzhifeng   自己的github地址
-url: https://cangzhifeng.github.io     上面设置的https://YourGithubUserName.github.io
+
 
 # About/contact
 owner: 
-  name: "陈素封"
-  email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+  name: "藏锋"
+  email: cangfeng@beihoo.top
+  bio: "谈天下论英雄"
 
 # Data
 gavatar: img/favicon1.ico
